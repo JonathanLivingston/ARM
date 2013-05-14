@@ -1,0 +1,7 @@
+<config>
+	<server>SOME_ADDRESS</server>
+	<dbname>SOME_DB_NAME</dbname>
+	<dbport>5432</dbport>
+	<login>SOME_LOGIN</login>
+	<password>SOME_PASSWORD</password>
+</config>
